@@ -21,7 +21,7 @@ All data are released with [CC BY-SA 4.0 International](http://creativecommons.o
 Julian Bogdani ([julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it)) and [LAD: Laboratorio di Archeologia Digitale alla Sapienza](https://lad.saras.uniroma1.it) 2022.
 
 ## Long termpreservation policy
-Thisrepository is archived on Zenodo:
+This repository is archived on Zenodo:
 
 [![DOI](https://zenodo.org/badge/484014787.svg)](https://zenodo.org/badge/latestdoi/484014787)
 
