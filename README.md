@@ -12,7 +12,7 @@ This repository contains structured geographical, GIS-ready data exracted from:
 
 
 ## Demo
-A working demo is aveilable at [https://lab-archeologia-digitale.github.io/jacotin-1828/](https://lab-archeologia-digitale.github.io/jacotin-1828/)
+A working demo is available at [https://lab-archeologia-digitale.github.io/jacotin-1828/](https://lab-archeologia-digitale.github.io/jacotin-1828/)
 
 
 ## License
