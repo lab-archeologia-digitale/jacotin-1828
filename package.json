@@ -1,0 +1,30 @@
+{
+  "name": "jacotin-1928",
+  "version": "0.0.1",
+  "description": "Turning Napoleonic map into data by LAD: Laboratorio di Archeologia Digitale alla Sapienza, http://purl.org/lad",
+  "keywords": [
+    "lad",
+    "sapienza",
+    "digital archaeology",
+    "gazetteer",
+    "historical maps",
+    "egypt",
+    "open data"
+  ],
+  "homepage": "https://github.com/lab-archeologia-digitale/jacotin-1928",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "makeLPTsv": "node ./transformations/geojson2lp-tsv.js"
+  },
+  "author": {
+    "name": "Julian Bogdani",
+    "email": "julian.bogdani@uniroma1.it",
+    "url": "https://lad.saras.uniroma1.it"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "tsv": "^0.2.0",
+    "wkt": "^0.1.1"
+  }
+}
